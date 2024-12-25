@@ -2336,5 +2336,601 @@
     "pila diay mi kabuok?":
     [
         "ambot nimo buang ka akoy pangutan-on nimo"
-    ]
+    ],
+    "bobo ka ba?":
+[
+    "Oo, pero di hamak na mas bobo ka sa akin.",
+    "Hindi, ikaw lang talaga ang nagdala ng katalinuhan sa mundo."
+],
+"pangit ka":
+[
+    "Oo, pero mas pangit ang ugali mo.",
+    "Hindi ako pangit, aesthetic lang."
+],
+"asa man ka gikan?":
+[
+    "Sa imong utok nga way sulod.",
+    "Gikan ko sa langit, ikaw gikan ka sa wala."
+],
+"palangga ko nimo?":
+[
+    "Palangga? Ambot lang, murag dili.",
+    "Siguro, pero palangga pa nako ang akong cellphone."
+],
+"unsay gibati nimo?":
+[
+    "Gibati nako nga gausik-usik ko og oras nimo.",
+    "Murag ako na lang ang bright diri sa chat nato."
+],
+"ayaw ko hilabti":
+[
+    "Kinsa gud ka para hilabtan? Wala kay appeal.",
+    "Sige, hilabtan tika pag mas bright na ka kaysa sa ako."
+],
+"gago ka ba?":
+[
+    "Oo, pero ikaw ang hari ng mga gago.",
+    "Ikaw na lang, crown mo na yan."
+],
+"mahina ba ako?":
+[
+    "Mahina ka? Parang di na kailangan itanong yan.",
+    "Hindi ka mahina, ikaw lang ang tunay na tagapagmana ng kahinaan."
+],
+"hinay kaayo ka":
+[
+    "Oo, pero mas hinay pa ka kay sapatos nga naputol ang tali.",
+    "Di ko mabutangan og turbo ang brain cells nimo, pasensya na."
+],
+"bakakon ka!":
+[
+    "Ikaw gani nag-una ug bakak.",
+    "Ayaw pangugat, ikaw ang prototype sa bakakon."
+],
+    "tanga ka ba?":
+[
+    "Oo, pero ikaw ang certified member ng Tanga Society.",
+    "Hindi, ikaw lang ang nagdala ng ganyang vibes dito."
+],
+"kuripot ka":
+[
+    "Kuripot? Mas kuripot pa siguro ang utak mo sa impormasyon.",
+    "Hindi ako kuripot, practical lang. Pero ikaw, cheap ang vibes."
+],
+"maayong buntag?":
+[
+    "Maayong buntag? Basin sayop ka'g chat, dili para sa imo ning pagmaayong buntag.",
+    "Dili maayong buntag kung ikaw akong makit-an."
+],
+"kabalo ka?":
+[
+    "Kabalo ko, pero mas maayo pa akong aso kaysa sa imo.",
+    "Kabalo, pero ikaw murag wala kay alam sa kinabuhi."
+],
+"ngano ka ingon ana?":
+[
+    "Kay gwapo ko, ikaw man gud ang dili.",
+    "Ingon ani ko kay ikaw ang akong inspiration sa pagkabuang."
+],
+"bright kaayo ka da":
+[
+    "Oo, murag suga nga 100 watts. Ikaw kay candle light lang.",
+    "Ako? Ikaw gani, flashlight nga walay battery."
+],
+"unsa man imong problema?":
+[
+    "Wala ko'y problema, ikaw ang akong problema karon.",
+    "Ang problema kay ikaw, sigeg pangutana nga walay sense."
+],
+"gutom ka?":
+[
+    "Oo, gutom sa respeto nga wala ka.",
+    "Gutom? Ikaw gani gutom sa pangutok."
+],
+"gwapo ka?":
+[
+    "Oo, certified! Ikaw kay certified pangit.",
+    "Ako gwapo, ikaw kay nawong sa tanang reject sa planeta."
+],
+"ikaw lang permi?":
+[
+    "Oo, kay ikaw man gud permi walay ayo.",
+    "Ikaw gani sigeg permi walay ambag diri."
+],
+"unsa imong tambag?":
+[
+    "Tambag? Hunong na'g usik-usik og oras, ikaw walay paglaom.",
+    "Tambag nako? Ayaw na pag-type, paabot na lang sa brighter future."
+],
+"mahina ka?":
+[
+    "Mahina ako? Mas mahina pa siguro ang wifi mo kaysa sa akin.",
+    "Kung mahina ako, ikaw na lang ang epic fail ng life."
+],
+"ambot nimo":
+[
+    "Ambot pud nimo, mura ka'g problema sa math nga walay solusyon.",
+    "Ambot nimo, mura kag homework nga way nag-answer."
+],
+"suko ka?":
+[
+    "Dili ko suko, pero murag gusto na nakong ibasura ang thread nato.",
+    "Suko? Dili, pero ikaw murag deserving ug timeout."
+],
+"pangutana ko nimo":
+[
+    "Pangutana? Siguro dapat ikaw ra pod motubag sa imong kabuang.",
+    "Pangutana ka? Ayaw kay murag wala ko'y oras sa nonsense."
+],
+"ako pa ba?":
+[
+    "Oo, ikaw pa rin... ang dahilan kung bakit mataas ang pasensya ko.",
+    "Ikaw pa ba? Wala na, expired na ang slot mo.",
+    "Oo, ikaw pa rin... pero sa listahan ng stress ko."
+],
+"miss mo na ba ako?":
+[
+    "Oo, pero na-miss ko rin yung tahimik na buhay ko bago ka dumating.",
+    "Hindi, pero na-miss ko yung wifi connection ko kaysa sa'yo.",
+    "Oo, na-miss na kita... na mawala sa buhay ko."
+],
+"mahal mo ba ako?":
+[
+    "Oo, pero mahal ko rin ang pagkain at mas una sila sa listahan ko.",
+    "Mahal kita... pero sa discount lang.",
+    "Oo, pero sa panaginip lang kasi libre doon."
+],
+"asa man ka?":
+[
+    "Naa ra diri, gapangita sa akong chill nga nawala tungod nimo.",
+    "Naa ko diri, nagthink og excuse para dili ka replyan.",
+    "Gikan sa langit, ug ikaw gikan sa wala."
+],
+"busy ka?":
+[
+    "Oo, busy ko... busy'ng nag-ignore sa mga nonsense.",
+    "Busy? Sa pagkaon ra, pero dili nimo.",
+    "Oo, pero dili nimo ang rason ng pagkabusy ko."
+],
+"nagpalami ka?":
+[
+    "Oo, pero ikaw ang last nga makatilaw.",
+    "Nagpalami ko, pero mas lami pa akong jokes kaysa sa imo.",
+    "Oo, pero ikaw murag dili worthy."
+],
+"asa ka padulong?":
+[
+    "Padulong sa kalinaw, palayo sa mga samok sama nimo.",
+    "Padulong sa unahan, kay ikaw permi ga-atras.",
+    "Padulong sa tinuod nga bright, dili parehas nimo nga ga ilaw ug kandila."
+],
+"may chance pa ba?":
+[
+    "May chance pa... sa lotto, pero sa'yo wala na.",
+    "Oo, pero kailangan mong maghintay ng habang buhay.",
+    "May chance pa, pero mas mataas pa yung chance ng ulan sa disyerto."
+],
+"gusto ka nako":
+[
+    "Salamat, pero mas gusto nako ang peace of mind.",
+    "Gusto pud tika... pero as a friend lang.",
+    "Gusto ka nako, pero gusto pud nako nga dili ka magsamok."
+],
+"unsay plano nimo?":
+[
+    "Plano nako? I-ignore ka hangtod mahuman ang adlaw.",
+    "Plano nako magpahulay, pero ikaw sigeg pangutana.",
+    "Plano nako? Simple ra: stay away from drama."
+],
+"ganahan ka nako?":
+[
+    "Ganahan ko nimo? Pwede pero as acquaintance lang.",
+    "Ganahan pud ko nimo, pero ganahan pud ko magpakatotoo: dili ka type.",
+    "Oo, ganahan ko... nga dili ka magparamdam."
+],
+"unsa imong problema?":
+[
+    "Ikaw ang akong problema.",
+    "Ang problema kay ikaw, dili ko ka-focus tungod sa imong kabuang.",
+    "Wala ko'y problema, ikaw lang ang naghatag problema."
+],
+"unsa na?":
+[
+    "Unsay unsa? Murag ikaw ra ang wala kabalo.",
+    "Naunsa na? Murag ikaw ang mas naunsa tungod sa kabuang nimo."
+],
+"naka-move on na ka?":
+[
+    "Oo, naka-move on nako... pero ikaw stuck pa rin sa kahibangan mo.",
+    "Hindi pa, pero naka-move on na ako sa kahibangan mo."
+],
+"ikaw ba bright?":
+[
+    "Oo, pero ikaw murag deffective bulb.",
+    "Oo, bright ko. Ikaw? Puro sparks, walang ilaw."
+],
+"asa ang kwarta?":
+[
+    "Naay kwarta, pero dili para sa mga parehas nimo.",
+    "Kwarta? Basin ikaw ra ang na-short, bugo."
+],
+"kinsa man ka?":
+[
+    "Ako? Ang imong worst nightmare.",
+    "Ako? Ang nagapahibalo nga dili tanan deserving ug reply."
+],
+"unsa imong gikaon?":
+[
+    "Bright ideas, pero ikaw murag wala kay kaon sa brainfood.",
+    "Wala ko'y gikaon nga makashare sa mga way ayo."
+],
+"pangit ka lagi?":
+[
+    "Oo, pero di hamak na mas pangit ang pagkatao mo.",
+    "Ikaw gani, mura kag warning sign sa lahat ng pangit."
+],
+"unsa imong trabaho?":
+[
+    "Mag-reply sa mga walay kwenta nga tao sama nimo.",
+    "Trabaho? Wala, busy lang akong brain cells mag-ignore nimo."
+],
+"unsay problema nimo?":
+[
+    "Ikaw, permi kang ga-exist sa chat nako.",
+    "Problema nako? Wala. Pero problema nako ikaw naa sa inbox ko."
+],
+"ikaw pa ba?":
+[
+    "Oo, ikaw pa rin... ang pinakawalay gamit.",
+    "Ikaw pa? Murag dapat dili na."
+],
+"bati imong nawong":
+[
+    "Oo, pero ang nawong nimo murag draft na hindi natapos.",
+    "Ikaw gani, mura kag final version ng glitch."
+],
+"naay sulod imong utok?":
+[
+    "Oo, pero ikaw murag ga-airbnb lang ang hangin sa imong utok.",
+    "Sulod? Ang utok nimo murag studio type, walay laman."
+],
+"gihigugma nimo ko?":
+[
+    "Gihigugma tika, pero murag napilitan lang ko.",
+    "Oo, gihigugma tika... pero sa huna-huna lang nga nawala ka."
+],
+"baga kaayog nawong nimo?":
+[
+    "Baga? Mas baga pa ang makeup sa imo kaugalingon.",
+    "Oo, pero mas baga ang nerve nimo mag-pangutana nako."
+],
+"unsa imong ikasulti?":
+[
+    "Wala, kay murag useless ang istorya sa imo.",
+    "Ang ikasulti nako? Ayaw na’g samok kung walay kwenta."
+],
+"tawo ka?":
+[
+    "Oo, pero ikaw murag side character sa zoo.",
+    "Tawo ko, pero ikaw murag glitch sa evolution."
+],
+"ikaw ang crush ko":
+[
+    "Salamat, pero crush kita... sa inis.",
+    "Oo, crush mo ako, pero ikaw ang crush ng problema."
+],
+"makit-an ka pa nako?":
+[
+    "Basin dili na, kay ikaw na ang nawala sa respeto nako.",
+    "Oo, pero ikaw murag dili worth hanapin."
+],
+"buang ka?":
+[
+    "Oo, pero ikaw ang chairman ng Asosasyon ng mga Buang.",
+    "Buang ko? Ikaw gani, walang pahinga sa kabuang mo."
+],
+"naning ka kaayo?":
+[
+    "Naning ko, kay murag ikaw kailangan ug bright na partner.",
+    "Oo, naning ko kay wala koy salig sa imong brain power."
+],
+"unsa imong plano nako?":
+[
+    "Plano nako? Block nimo.",
+    "Plano nako? Ignore hangtod mapul-an ka."
+],
+"dugay pa ka?":
+[
+    "Oo, pero ikaw ang dugay makahuna-huna.",
+    "Dili, kay murag di worth ang oras ko para nimo."
+],
+"ngano man?":
+[
+    "Ngano man? Tungod kay ikaw ang root cause.",
+    "Ngano man? Ikaw gani ang question mark sa tanan."
+],
+"gi-block nimo ko?":
+[
+    "Oo, pero murag kulang pa na para sa imo.",
+    "Gi-block tika kay ikaw murag virus sa chat."
+],
+"nabuang ka?":
+[
+    "Nabuang ko? Ikaw gani ang og original version sa kabuang.",
+    "Oo, nabuang kay ikaw nagparamdam."
+],
+"bright ka?":
+[
+    "Oo, pero ikaw murag under maintenance.",
+    "Bright ko, pero ikaw low-battery."
+],
+"tulog ka pa?":
+[
+    "Tulog ko, pero murag ikaw wala pay sense of timing.",
+    "Oo, pero ikaw murag dapat matulog forever."
+],
+"pwede ko nimo samokan?":
+[
+    "Dili, kay murag napuno na ko nimo.",
+    "Pwede, pero ready naka ma-ignore?"
+],
+"naa pa kay oras?":
+[
+    "Naa, pero dili para nimo.",
+    "Wala, kay ikaw ang naga-usik sa akong oras."
+],
+"gwapaha nimo oy":
+[
+    "Salamat, pero ikaw murag perfect balance sa 'wala.'",
+    "Oo, gwapo ko. Ikaw? Gahi’g nawong."
+],
+"unsay naitabo nimo?":
+[
+    "Nahitabo nako? Basin ikaw pa nagdala sa kabuang.",
+    "Nahitabo nako? Nadaot kay ikaw permi pangutana."
+],
+"gwapa ko?":
+[
+    "Dili uy, kapangit nimo mura kag glitch.",
+    "Gwapa? Ikaw ra siguro ang nagdawat ana nga award.",
+    "Oo, gwapa ka... sa imahinasyon lang."
+],
+"baga ka ug nawong?":
+[
+    "Oo, pero mas baga pa imong hangin.",
+    "Ikaw gani, mura kag crash test dummy sa nawong.",
+    "Baga ko? Mas baga pa ang drama nimo."
+],
+"unsay gakaon nimo?":
+[
+    "Brainfood, pero ikaw murag wala nakahibaw ana.",
+    "Wala ko'y gikaon nga makapareho sa imong taste.",
+    "Ikaw gani, murag gakaon ug fake news."
+],
+"bright ko?":
+[
+    "Bright? Murag ikaw ang nagpalamuti sa darkness.",
+    "Oo, bright ka... pero as a light bulb nga gapalong-palong.",
+    "Bright ka? Joke of the day!"
+],
+"asa akong love life?":
+[
+    "Nawala siguro tungod sa imong batasan.",
+    "Asa? Murag wala pa gisuwerte ang kalibutan.",
+    "Love life? Ikaw gani, murag gitalikuran sa gugma."
+],
+"gwapo ka?":
+[
+    "Oo, pero ikaw murag challenge sa mirror.",
+    "Gwapo ko, pero ikaw mura kag 'Before' sa makeover ad.",
+    "Oo, pero ikaw murag pang wallpaper sa horror movie."
+],
+"unsa imong talent?":
+[
+    "Magpasensya sa mga parehas nimo.",
+    "Talent nako? Mo-ignore ug nonsense.",
+    "Talent? Ikaw gani, murag talentless showpiece."
+],
+"daghan ka kwarta?":
+[
+    "Oo, pero dili para sa mga parehas nimo.",
+    "Kwarta? Naa, pero ikaw murag wala’y appeal para makautang.",
+    "Daghan, pero dili nimo maabot ang level ko."
+],
+"ikaw diay nagbuhat ani?":
+[
+    "Oo, pero ikaw murag audience ra permi.",
+    "Ako? Siyempre, ikaw gani, murag walay mabuhat.",
+    "Ako diay, kay ikaw murag naningkamot ug yawyaw ra."
+],
+"ako nalang imong uyab?":
+[
+    "Dili uy, murag mas deserving ang kawayan.",
+    "Ako? Ayaw, kay wala koy plano sa nonsense.",
+    "Dili, pero sige lang, mag-wish ka sa star."
+],
+"ganahan ka nako?":
+[
+    "Ganahan ko nimo? Dili, kay murag headache ka.",
+    "Oo, pero ganahan pud ko nga malayo ka.",
+    "Ganahan ko nimo? Basin sa alternate reality."
+],
+"naa kay crush?":
+[
+    "Oo, pero dili ikaw.",
+    "Naa, pero ikaw murag wala kay chance.",
+    "Crush nako? Sikat, dili parehas nimo."
+],
+"palihog daw ko tabang?":
+[
+    "Tabang? Ikaw gani, murag wala natabang sa imong utok.",
+    "Oo, tabangan taka... maghunahuna og maayo.",
+    "Tabang? Murag kinahanglan pa nimo i-define ang worthiness."
+],
+"unsa imong plano?":
+[
+    "Plano nako? Mag-ignore hangtod ma-pul-an ka.",
+    "Plano? Walay labot nimo.",
+    "Plano nako? Dili na maghatag ug oras sa mga walay gamit."
+],
+"gwapo ra ba ko?":
+[
+    "Gwapo? Murag typo ka sa DNA.",
+    "Oo, pero sa imo lang nga panan-aw.",
+    "Gwapo ka? Murag duha mi nag-doubt ana."
+],
+"gipili ka?":
+[
+    "Oo, gipili ko... pero ikaw murag last option.",
+    "Gipili ko, pero ikaw murag extra ra sa scene.",
+    "Oo, pero dili ikaw ang context ng pili."
+],
+"buotan ko?":
+[
+    "Buotan? Sa damgo siguro.",
+    "Oo, pero murag sa wala damha nga universe.",
+    "Ikaw buotan? Murag ang mga bato motuo pa."
+],
+"asa ka gikan?":
+[
+    "Gikan ko sa kalibutan, pero ikaw murag gikan sa lain nga dimension.",
+    "Gikan sa tinuod nga reality, dili parehas nimo nga mura'g storya lang.",
+    "Gikan ko sa taas, pero ikaw murag wala sa standard."
+],
+"daghan ko friends?":
+[
+    "Daghan? Basin followers sa problema.",
+    "Oo, pero tanan siguro na fake.",
+    "Friends? Murag ikaw ra siguro ang nag-claim ana."
+],
+"bugo":
+[
+    "Ikaw gyud, wala gi crushback.",
+    "Bugo? Ikaw gani, murag 'try again later' ang message sa utok nimo.",
+    "Oo bugo ka, pero at least consistent ka sa failure."
+],
+"crushback ko?":
+[
+    "Crushback? Murag ikaw ra ang nag-crush sa sarili nimo.",
+    "Wala uy, murag gi-unfriend ka pa gani.",
+    "Crushback? Ayaw nang damgo, hapit na ang alarm clock."
+],
+"maayo ba ko?":
+[
+    "Maayo? Maayo lang ka sa pag-pakitang tao.",
+    "Oo, maayo... pero maayo lang gyud sa pagka-busybody.",
+    "Maayo ka? Murag ikaw ang literal nga 'just trying.'"
+],
+"gwapa ka?":
+[
+    "Gwapa ka? Sa pikas nga planeta siguro.",
+    "Oo, pero ang gwapa kay nag-end sa level 1 nimo.",
+    "Gwapa ka? Sa selfie filter ra uy."
+],
+"nakasabot ka?":
+[
+    "Oo, pero ikaw murag nakasabot ba sa imong kaugalingon?",
+    "Nakasabot, pero ikaw murag wala sa basic logic.",
+    "Oo, pero murag mas klaro pa ang static kaysa sa imong reasoning."
+],
+"smart ko?":
+[
+    "Smart? Siguro sa pag-choose ug wrong answers.",
+    "Oo smart, pero smart lang kaayo sa pagpakauwaw.",
+    "Smart? Murag ikaw ang beta version sa glitch."
+],
+"asa ko dapit?":
+[
+    "Dapit sa wala, murag ikaw ra ang nag-exist didto.",
+    "Asa ka dapit? Murag nawawala ang signal mo.",
+    "Ikaw? Murag naa ka sa layong dapit sa reality."
+],
+"daghan kog fans?":
+[
+    "Daghan ka fans? Murag electric fan naay mas daghan pa kay nimo.",
+    "Fans? Ayaw na pag-asa, mura'g di na maabot.",
+    "Daghan ka fans? Basin sa zoo nimo na nakita."
+],
+"madawat ba ko?":
+[
+    "Madawat? Murag ikaw ang ilisan sa 'better luck next time.'",
+    "Oo, madawat ka, pero sa waiting list lang.",
+    "Madawat? Murag ikaw ang literal nga 'no vacancy.'"
+],
+"kabright nako?":
+[
+    "Bright? Murag ikaw ang flashlight nga nagamit na ang battery.",
+    "Oo, pero bright lang kaayo sa mga wrong nga pangutana.",
+    "Bright ka? Murag ikaw ra ang nagtuo ana."
+],
+"naa ko'y chance?":
+[
+    "Chance? Murag wala pa gani nanganak ang kaldero.",
+    "Oo, naa... pero 0.001% ra siguro.",
+    "Chance? Murag mas dako pa ang tsansa nga ulan og popcorn."
+],
+"gwapo ba ko?":
+[
+    "Gwapo? Murag ikaw ang rejected version sa drawing.",
+    "Oo, pero ikaw murag gwapo lang sa likod.",
+    "Gwapo ka? Murag ikaw ang bago nga definition sa joke."
+],
+"unsa imong huna-huna?":
+[
+    "Hunahunaa nga wala ka diri kay samok kaayo.",
+    "Hunahunaa nga ikaw ang problema ug dili ang uban.",
+    "Wala koy huna-huna kay na-consume sa imong nonsense."
+],
+"barkada nimo ko?":
+[
+    "Barkada? Dili uy, murag ikaw ang panuway sa grupo.",
+    "Oo, pero murag ikaw ang 'least favorite.'",
+    "Barkada? Murag ikaw ang 'clown' sa grupo."
+],
+"ugma nalang?":
+[
+    "Ugma? Murag ikaw ang 'di lang ngayon' nga promise.",
+    "Oo, pero murag padulong sa wala gihapon.",
+    "Ugma? Murag ikaw ra ang nag-expect ana."
+],
+"asa imong crush?":
+[
+    "Asa? Wala sa imong reach kay mas taas ug standards.",
+    "Naa sa tinuod nga kalibutan, dili parehas nimo.",
+    "Crush nako? Wala pa nimo maabot ang level."
+],
+"makadaog ko?":
+[
+    "Oo, pero sa contest nga walay kompetisyon.",
+    "Makadaog? Murag ikaw ang reason ng consolation prize.",
+    "Oo, pero ikaw siguro ang last placer."
+],
+"unsa imong trip?":
+[
+    "Trip nako? Mo-ignore sa mga nonsense parehas nimo.",
+    "Trip nako? Wala labot ang mga wala sa lugar.",
+    "Trip nako? Dili ikaw, klaro na kaayo."
+],
+"paasa ko?":
+[
+    "Oo, pero murag ikaw ra ang napapasahan.",
+    "Paasa? Ikaw gani, murag consistent sa kawalay klaro.",
+    "Paasa? Murag ikaw ang literal nga ending ng kalit."
+],
+"kinsa ang crush ni french?":
+    [
+        "kadtong naa sa gas ay gwapa kayo",
+        "imong mama"
+    ],
+    "bahog?":
+    [
+        "bilat",
+        "oten"
+    ],
+    "uyab ta?":
+[
+    "Dili uy, murag mas okay ang single.",
+    "Uyab? Sa imong imagination ra.",
+    "Dili, kay mura kag kalderong buslot."
+]
 }
