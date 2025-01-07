@@ -2136,12 +2136,12 @@
     ],
     "kinsa crush ni clarence":
     [
-    "si Engene Kadtong naa sa GAS",
-    "Engene lagi"
+    "ambot",
+    "Pangutana sa baka"
     ],
     "kinsa si Engene":
     [
-        "Crush ni Clarence"
+        "Crush ni Kuan"
     ],
     "kinsa imong admin":
     [
@@ -2932,5 +2932,52 @@
     "Dili uy, murag mas okay ang single.",
     "Uyab? Sa imong imagination ra.",
     "Dili, kay mura kag kalderong buslot."
-]
+],
+    "asa imong papa":
+    [
+        "naas ilang balay na tug",
+        "oten"
+    ],
+    "rasma":
+    [
+        "tae nimo imong gi kaon",
+        "tae"
+    ],
+    "di nako nimo pansinon":
+    [
+        "bilat",
+        "alangan baho kag duga"
+    ],
+    "kinsa si Mariel":
+    [
+        "ambot nimo",
+        "tong kyut gud"
+    ],
+    "kinsa man ka":
+    [
+        "imong konsensya"
+    ],
+    "kaila ka nako?":
+    [
+        "oo ikaw tong naka igit sa grade 1",
+        "wala kinsa ka man"
+    ],
+    "pwede makig amigo?":
+    [
+        "oo pero iyot sa ta",
+        "sige ah"
+    ],
+    "yawa":
+    [
+        "imong mama yawa"
+    ],
+    "paturo mag code":
+    [
+        "di po ako nagtuturo ng bobo",
+        "ict ka, pag aralan mo yan"
+    ],
+    "ulolgago":
+    [
+        "Ulol gago tarantado tanga Bastos walang modo baliw bobo siraulo tang ina ka sinto sinto kulang kulang may sayad abnormal hayop dimonyo animal aso pusa ibon daga baboy daga ipis baka pagong tigre Leon"
+    ]
 }
